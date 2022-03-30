@@ -16,7 +16,7 @@ It is often used as a pedagogical tool for teaching the concepts of good sportsm
 
 ## DEFINING OUR SYSTEM
 
-The game start with player 1, who's symbol is x, player 1 has to select the required board position between 1 to 9 after player 1 seletion player 2 has to select remaining board posion between 1 and 9.
+The game starts with player 1, whose symbol is x, player 1 has to select the required board position between 1 to 9 after player 1 selection player 2 has to select the remaining board position between 1 and 9.
 
 ## SWOT ANALYSIS
 
