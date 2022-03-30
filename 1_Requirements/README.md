@@ -21,7 +21,6 @@ The game starts with player 1, whose symbol is x, player 1 has to select the req
 ## SWOT ANALYSIS
 
 #### STRENGTH
-
 1. The game can help the player to predict the outcome of anothers move.
 2. It helps to improve logic building and problem solving ability.
 3. It helps develop coordination, fine motor skills and visual skills.
