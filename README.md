@@ -9,11 +9,13 @@ codiga code quality ![codiga code quality](https://api.codiga.io/project/32216/s
 
 codiga code quality![codiga code grade](https://api.codiga.io/project/32216/status/svg)
 
-Tic-Tac-Toe
+## Tic-Tac-Toe
+
 Tic-Tac-Toe game is very popular and is fairly simple by itself. It is a computer based game for two players X and O. They take turns marking the spaces in the 3 x 3 grid with X and O alternatively. The player who succeeds in placing three successive marks either in horizontal, diagonal or vertical wins the game.
 
-Learning Resources
-1.markdownCheatsheet
-2.markdownBasics
-3.git inspector
-4.github workflow
+
+## Learning Resources
+1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+3. [git inspector](https://github.com/ejwa/gitinspector.git)
+4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
