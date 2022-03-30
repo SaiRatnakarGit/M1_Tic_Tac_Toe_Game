@@ -16,17 +16,7 @@ It is often used as a pedagogical tool for teaching the concepts of good sportsm
 
 ## DEFINING OUR SYSTEM
 
-- The game starts giving you three input options(1, 2, 3):
-  - 1 means you play using "X".
-  - 2 means you play using "O".
-  - 3 means you exit the game.
-- The game ends when:
-  - It is in a draw situation , i.e, a total of 9 moves have been completed and novody has won.
-  - You win.
-  - The computer wins.
-- The game continues in the beginning if the check for draw is false.
-- Then it checks if anyone has won yet.
-- If not, then it again checks if it is a draw situation.
+The game start with player 1, who's symbol is x, player 1 has to select the required board position between 1 to 9 after player 1 seletion player 2 has to select remaining board posion between 1 and 9.
 
 ## SWOT ANALYSIS
 
@@ -71,28 +61,3 @@ A variety of websites make a simple tic tac toe game available.
 
 This project is implemented by using loops, function call and other functionalities of C.
 
-## DETAIL REQUIREMENTS
-
-### HIGH LEVEL REQUIREMENTS
-
-| ID | Description | Status |
-| -- | ----------- | ------ |
-| HLR1 | User shall be able to choose 'X' to play. | Implemented |
-| HLR2 | User shall be able to choose 'O' to play. | Implemented |
-| HLR3 | User shall be able to Exit the game. | Implemented |
-| HLR4 | User shall lose. | Implemented |
-| HLR5 | User shall win. | Implemented |
-| HLR6 | User shall end up in a Draw situation. | Implemented |
-
-### LOWER LEVEL REQUIRMENTS
-
-| ID | Description | Status |
-| -- | ----------- | ------ |
-| LLR1 | If the user presses '1', he'll be play with 'X'. | Implemented |
-| LLR2 | If the user is playing with 'X', he'll get the first turn. | Implemented |
-| LLR3 | If the user presses '2', he'll be play with 'O'. | Implemented |
-| LLR4 | If the user is playing with 'O', he'll get the second turn. | Implemented |
-| LLR5 | If the user presses '3', it'll exit the game. | Implemented |
-| LLR6 | If the computer gets 3 Xs or 3 Os in vertical,horizontal or diagonal row, User will lose. | Implemented |
-| LLR7 | If the user gets 3 Xs or 3 Os(as per his choice), in vertical,horizontal or diagonal row, he'll win. | Implemented |
-| LLR8 | If the total number of moves, i.e., 9 moves have been completed and neithe the user nor the computer has won, it'll end up in a draw. | Implemented |
