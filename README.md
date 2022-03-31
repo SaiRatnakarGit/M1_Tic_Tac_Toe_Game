@@ -1,5 +1,6 @@
 # M1_Tic_Tac_Toe_Game
 
+![](https://user-images.githubusercontent.com/101380210/161075932-856cd6b0-7f6a-4e46-9323-b966e036d7a4.jpeg)
 
 cpp check [![Build CI - Linux](https://github.com/SaiRatnakarGit/M1_Tic_Tac_Toe_Game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SaiRatnakarGit/M1_Tic_Tac_Toe_Game/actions/workflows/c-cpp.yml)
 
@@ -19,3 +20,4 @@ Tic-Tac-Toe game is very popular and is fairly simple by itself. It is a compute
 2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
 3. [git inspector](https://github.com/ejwa/gitinspector.git)
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+
