@@ -10,6 +10,8 @@ codiga code quality![codiga code grade](https://api.codiga.io/project/32216/stat
 
 [![Code Quality - Cppcheck](https://github.com/SaiRatnakarGit/M1_Tic_Tac_Toe_Game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SaiRatnakarGit/M1_Tic_Tac_Toe_Game/actions/workflows/c-cpp.yml)
 
+[![Analysis](https://github.com/SaiRatnakarGit/M1_Tic_Tac_Toe_Game/actions/workflows/Analysis.yml/badge.svg)](https://github.com/SaiRatnakarGit/M1_Tic_Tac_Toe_Game/actions/workflows/Analysis.yml)
+
 
 ![](https://user-images.githubusercontent.com/101380210/161075932-856cd6b0-7f6a-4e46-9323-b966e036d7a4.jpeg)
 
