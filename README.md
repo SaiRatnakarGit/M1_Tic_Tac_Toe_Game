@@ -22,3 +22,5 @@ Tic-Tac-Toe game is very popular and is fairly simple by itself. It is a compute
 3. [git inspector](https://github.com/ejwa/gitinspector.git)
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
+[![Code Quality - Cppcheck](https://github.com/SaiRatnakarGit/M1_Tic_Tac_Toe_Game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SaiRatnakarGit/M1_Tic_Tac_Toe_Game/actions/workflows/c-cpp.yml)
+
